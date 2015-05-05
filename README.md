@@ -15,6 +15,14 @@ Features coming soon:
 
 * action = delete
 
+# Configuration
+This took expects a yaml config file, .wikiclirc, located in $HOME.  It should be populated with these attributes:
+```
+user: value
+password: value
+apiurl: https://whatever
+```
+
 Bugs and issues
 ====
 
